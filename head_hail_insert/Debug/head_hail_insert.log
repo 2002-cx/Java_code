@@ -1,0 +1,10 @@
+﻿生成启动时间为 2021/9/15 20:28:09。
+     1>项目“c:\Users\mo_chen\documents\visual studio 2013\Projects\head_hail_insert\head_hail_insert\head_hail_insert.vcxproj”在节点 2 上(Build 个目标)。
+     1>Link:
+         D:\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"c:\users\mo_chen\documents\visual studio 2013\Projects\head_hail_insert\Debug\head_hail_insert.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"c:\users\mo_chen\documents\visual studio 2013\Projects\head_hail_insert\Debug\head_hail_insert.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"c:\users\mo_chen\documents\visual studio 2013\Projects\head_hail_insert\Debug\head_hail_insert.lib" /MACHINE:X86 Debug\insert.obj
+         head_hail_insert.vcxproj -> c:\users\mo_chen\documents\visual studio 2013\Projects\head_hail_insert\Debug\head_hail_insert.exe
+     1>已完成生成项目“c:\Users\mo_chen\documents\visual studio 2013\Projects\head_hail_insert\head_hail_insert\head_hail_insert.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.28
